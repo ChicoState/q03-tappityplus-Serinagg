@@ -1,4 +1,4 @@
-[![Tests](https://github.com/ChicoState/tappityplus/actions/workflows/testing.yml/badge.svg)](https://github.com/ChicoState/tappityplus/actions/workflows/testing.yml) Testing status for ChicoState/tappityplus
+[![Tests](https://github.com/ChicoState/q03-tappityplus-Serinagg/actions/workflows/testing.yml/badge.svg)](https://github.com/ChicoState/q03-tappityplus-Serinagg/actions/workflows/testing.yml) Testing status for ChicoState/tappityplus
 
 # Getting Started
 
